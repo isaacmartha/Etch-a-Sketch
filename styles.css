@@ -100,7 +100,7 @@ body {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    overflow: hidden; /* Prevent the glow from affecting other elements */
+    overflow: hidden; 
   }
   
   .button-85:before {
@@ -155,4 +155,3 @@ body {
     border-radius: 10px;
   }
   
-/* other buttons */
